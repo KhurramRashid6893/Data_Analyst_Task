@@ -1,13 +1,9 @@
 # 📊 Data Analytics Internship Projects – Oasis Infobyte
 
 **Intern:** Khurram Rashid
-
 **Domain:** Data Analytics
-
 **Organization:** Oasis Infobyte
-
 **Internship Duration:** 1 Month
-
 **Start Date:** 05 December 2025
 
 ---
